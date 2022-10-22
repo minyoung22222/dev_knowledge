@@ -15,4 +15,6 @@ const memoizedCallback = useCallback(() => {
 > -   리액트의 렌더링 성능 최적화를 위한 hook (불필요한 동작 or 렌더링을 막아 최적화)
 > -   특정 함수를 새로 만들지 않고 재사용하고 싶을 때 사용
 
+컴포넌트가 렌더링 되는지 React Dev Tools의 Profiler로 확인하기
+
 https://codesandbox.io/embed/runtime-cdn-7lgu2h?fontsize=14&hidenavigation=1&theme=dark
